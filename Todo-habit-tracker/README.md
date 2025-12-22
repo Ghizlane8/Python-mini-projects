@@ -9,10 +9,10 @@ L’application est locale, simple à utiliser et professionnelle, avec persista
 ## 🎯 Objectifs du challenge
 
 - Mettre en pratique :
- - les listes et dictionnaires
- - la logique conditionnelle
- - la manipulation de fichiers
- - la création d’une API REST
+   - les listes et dictionnaires
+   - la logique conditionnelle
+   - la manipulation de fichiers
+   - la création d’une API REST
 - Construire une application web complète (backend + frontend)
 - Améliorer l’ergonomie, l’accessibilité et l’expérience utilisateur
 
@@ -88,3 +88,4 @@ http://127.0.0.1:8000
 
 ## 📸 Aperçu
 <img width="1916" height="923" alt="image" src="https://github.com/user-attachments/assets/c9e09d46-da00-4b97-b97e-3c2a8dec9a08" />
+
