@@ -68,6 +68,8 @@ Challenge-2/
 └── README.md               # Documentation
 ```
 ## 📸 Aperçu
+ <img width="1911" height="921" alt="image" src="https://github.com/user-attachments/assets/92629d2b-7a28-441b-be1e-cd63f655449f" />
+
 
 
 
