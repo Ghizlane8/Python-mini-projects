@@ -1,10 +1,11 @@
 # ✅ Challenge 4 — To-Do & Habit Tracker (Flask Web App)
 ## 📌 Présentation du projet
 
-Ce projet est une application web de gestion de tâches et d’habitudes développée avec Python et Flask.
-Elle permet à un utilisateur de créer, organiser, suivre et gérer ses tâches quotidiennes via une interface moderne, intuitive et accessible depuis un navigateur.
+Ce projet est une application web de gestion de tâches et d’habitudes développée en Python avec le framework Flask, dans le but de mettre en pratique des concepts clés du développement web backend et frontend.
 
-L’application est locale, simple à utiliser et professionnelle, avec persistance des données grâce aux fichiers JSON.
+Elle offre aux utilisateurs la possibilité de créer, organiser, filtrer et suivre l’avancement de leurs tâches quotidiennes via une interface claire, moderne et ergonomique, accessible directement depuis un navigateur.
+
+L’application est locale, fiable et orientée bonnes pratiques, avec une persistance des données basée sur des fichiers JSON, permettant une gestion durable et cohérente des informations.
 
 ## 🎯 Objectifs du challenge
 
@@ -20,27 +21,27 @@ L’application est locale, simple à utiliser et professionnelle, avec persista
 📝 Gestion des tâches
 
 - Ajouter une tâche avec :
- - un titre
- - une catégorie (study, work, personal, etc.)
+    - un titre
+    - une catégorie (study, work, personal, etc.)
 - Marquer une tâche comme :
- - TO DO
- - COMPLETED
+    - TO DO
+    - COMPLETED
 - Réouvrir une tâche complétée
 - Modifier une tâche existante
 - Supprimer une tâche
 
 ## 📂 Organisation & filtres
 - Filtrer les tâches par :
- - statut (All / Completed / To Do)
- - catégorie
+    - statut (All / Completed / To Do)
+    - catégorie
 - Comptage automatique :
- - nombre total de tâches visibles
- - nombre total de tâches complétées
+    - nombre total de tâches visibles
+    - nombre total de tâches complétées
 
 ## 💾 Persistance des données
 - Sauvegarde automatique dans :
- - tasks.json
- - categories.json
+    - tasks.json
+    - categories.json
 - Création de backups automatiques
 - Import / export des tâches au format JSON
 
@@ -88,4 +89,5 @@ http://127.0.0.1:8000
 
 ## 📸 Aperçu
 <img width="1916" height="923" alt="image" src="https://github.com/user-attachments/assets/c9e09d46-da00-4b97-b97e-3c2a8dec9a08" />
+
 
