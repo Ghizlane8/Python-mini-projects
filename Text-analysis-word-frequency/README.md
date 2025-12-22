@@ -44,62 +44,28 @@ L’application permet d’analyser rapidement un texte ou un fichier afin d’e
 
 ## 🚀 Lancement du projet
 1️⃣ Installer les dépendances
-''' bash
+``` bash
 pip install flask PyPDF2 python-docx
-'''
+```
 
 2️⃣ Lancer l’application
+``` bash
 python flask_text_analyzer.py
+```
 
 3️⃣ Accéder à l’application
+``` bash
 http://127.0.0.1:6000
+```
 
 ## 📁 Structure du projet
+``` text
 Challenge-2/
 │
 ├── flask_text_analyzer.py   # Application Flask principale
 ├── report.txt              # Rapport généré automatiquement
 ├── PyChallenges.html       # Fichier exemple
 └── README.md               # Documentation
-
-🧪 Exemple d’analyse
-
-Texte analysé :
-
-Python est génial. Python est puissant et flexible.
+```
 
 
-Résultats :
-
-Total mots : 7
-
-Mots uniques : 6
-
-Top mot : python (2)
-
-Nuage de mots généré dynamiquement
-
-✅ Points forts
-
-✔ Code structuré et lisible
-✔ Bonne séparation logique (UI / traitement / serveur)
-✔ Interface moderne (UX/UI)
-✔ Fonctionnalités avancées pour un challenge Python
-✔ Prêt pour extension (API, graphiques, NLP)
-
-🔮 Améliorations possibles
-
-Analyse NLP avancée (lemmatisation, sentiments)
-
-Export PDF du rapport
-
-Authentification utilisateur
-
-Déploiement cloud (Render / Azure / Railway)
-
-👩‍💻 Réalisé par
-
-Baali Ghizlane
-🎓 Master Data Science & Intelligence Artificielle
-
-📧 Contact : baali.ghizlane2@gmail.com
