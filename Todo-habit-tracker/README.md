@@ -86,15 +86,5 @@ Ouvre ton navigateur et visite :
 http://127.0.0.1:8000
 ```
 
+## 📸 Aperçu
 <img width="1916" height="923" alt="image" src="https://github.com/user-attachments/assets/c9e09d46-da00-4b97-b97e-3c2a8dec9a08" />
-
-
-
-
-
-
-
-
-
-
-POST	/api/import	Imp
