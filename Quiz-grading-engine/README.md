@@ -76,3 +76,9 @@ http://127.0.0.1:9000
 - Manipulation de formulaires web
 - Gestion de fichiers et persistance des données
 - Structuration et lisibilité du code
+
+## Apercu 
+<img width="637" height="706" alt="image" src="https://github.com/user-attachments/assets/55f99de5-3fe8-4cf2-bc9b-60aeb1062e88" />
+<img width="746" height="453" alt="image" src="https://github.com/user-attachments/assets/5ca686c3-80a1-4ae1-871d-67599363cb95" />
+<img width="708" height="700" alt="image" src="https://github.com/user-attachments/assets/fb4a719d-c0ea-4906-8832-1914e2d1558f" />
+
