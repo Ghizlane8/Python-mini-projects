@@ -1,4 +1,4 @@
-# 💰 Expense Tracker — Web App (Flask & Tailwind)
+# 💰 Expense Tracker
 
 ## 📌 Présentation du projet
 
