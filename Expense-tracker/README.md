@@ -68,7 +68,7 @@ http://127.0.0.1:8000
 
 ## 📈 Compétences mises en avant
 
--Programmation Python
+- Programmation Python
 - Développement web avec Flask
 - Structuration d’un projet backend
 - Manipulation de données
