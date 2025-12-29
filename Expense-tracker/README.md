@@ -77,4 +77,5 @@ http://127.0.0.1:8000
 - Gestion du thème clair / sombre
 - Bonnes pratiques de code
 
+## 📸 Aperçu
 <img width="957" height="717" alt="image" src="https://github.com/user-attachments/assets/7ec9b396-944e-4407-ac08-c8181873f7d8" />
