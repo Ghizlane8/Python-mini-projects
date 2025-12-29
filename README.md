@@ -37,95 +37,72 @@ Python-Challenge-Pack/
 ├── PyChallenges.html
 └── README.md
 ```
+---
 
 ## 🏆 Projects Overview
 ### 🎓 Student Management System
 
-Folder: Student-management-system
+Folder: ```text Student-management-system```
 
 A web-based application to manage students and analyze academic performance.
 
-Key Features
+**Key Features**
 
-Add, edit, and delete students
-
-Automatic calculations:
-
-class average
-
-best student
-
-failing students
-
-age distribution
-
-Sorting by grade or name
-
-CSV-based data persistence
-
-Clean and modern UI
+- Add, edit, and delete students
+- Automatic calculations:
+  - class average
+  - best student
+  - failing students
+  - age distribution
+- Sorting by grade or name
+- CSV-based data persistence
+- Clean and modern UI
 
 Tech stack: Python · Flask · HTML · Tailwind CSS · JavaScript · CSV
 
 ### 🧠 Text Analysis & Word Frequency
 
-Folder: Text-analysis-word-frequency
+Folder: ```text Text-analysis-word-frequency```
 
 A text analysis tool that extracts meaningful statistics from text input or files.
 
-Key Features
+**Key Features**
 
-Manual text input or file upload
-
-Word statistics:
-
-total & unique words
-
-longest & shortest words
-
-words starting with vowels
-
-words with length ≥ 7
-
-Top 10 most frequent words
-
-Automatic report generation
-
-Light / Dark mode
+- Manual text input or file upload
+- Word statistics:
+  - total & unique words
+  - longest & shortest words
+  - words starting with vowels
+  - words with length ≥ 7
+- Top 10 most frequent words
+- Automatic report generation
+- Light / Dark mode
 
 Tech stack: Python · Flask · HTML · CSS · JavaScript
 
 ### 💰 Expense Tracker
 
-Folder: Expense-tracker
+Folder: ```text Expense-tracker```
 
 A web application for tracking and analyzing daily expenses.
 
-Key Features
+**Key Features**
 
-Add and manage expenses
-
-Filter by category and date
-
-Automatic calculations:
-
-total spent
-
-average expense
-
-highest expense
-
-Category-based breakdown
-
-Donut chart visualization
-
-Persistent local storage
+- Add and manage expenses
+- Filter by category and date
+- Automatic calculations:
+  - total spent
+  - average expense
+  - highest expense
+- Category-based breakdown
+- Donut chart visualization
+- Persistent local storage
 
 Tech stack: Python · Flask · Tailwind CSS · JavaScript · Chart.js
 
 ### ✅ To-Do & Habit Tracker
 
-Folder: Todo-habit-tracker
+Folder: ```text Todo-habit-tracker```
 
 A productivity-focused task and habit tracking application.
 
