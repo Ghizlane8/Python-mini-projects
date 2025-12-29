@@ -1,16 +1,16 @@
 # 🧠 Python Quiz Engine — Application Web Interactive
 ## 📌 Présentation du projet
 
-Python Quiz Engine est une application web interactive développée avec Python et Flask, permettant de tester et d’évaluer ses connaissances en Python à travers un quiz dynamique et moderne.
+Python Quiz Engine est une application web interactive développée avec Python et Flask, permettant de tester et d’évaluer ses connaissances en Python à travers un quiz dynamique, moderne et intuitif.
 
 L’objectif de ce challenge est de concevoir une application complète de bout en bout, combinant :
 
-- logique Python,
-- interface utilisateur moderne,
-- gestion des données,
-- et expérience utilisateur fluide.
+- une logique Python robuste,
+- une interface utilisateur moderne,
+- la gestion des données,
+- et une expérience utilisateur fluide.
 
-Ce projet met en avant des compétences en développement backend, UI/UX, et structuration d’un projet Python.
+Ce projet met en avant des compétences en développement backend, UI/UX et structuration d’un projet Python, tout en visant à consolider les bases de Flask, de la logique applicative et de la conception d’interfaces web modernes.
 
 ## 🎯 Objectifs du challenge
 
