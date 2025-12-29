@@ -1,83 +1,78 @@
-# 🧠 Python Quiz Engine — Application Web Interactive
+# 💰 Expense Tracker — Web App (Flask & Tailwind)
+
 ## 📌 Présentation du projet
 
-Python Quiz Engine est une application web interactive développée avec Python et Flask, permettant de tester et d’évaluer ses connaissances en Python à travers un quiz dynamique, moderne et intuitif.
+Expense Tracker est une application web développée avec **Python et Flask**, permettant de suivre et analyser ses dépenses quotidiennes à travers une interface moderne, claire et intuitive.
 
-L’objectif de ce challenge est de concevoir une application complète de bout en bout, combinant :
+Ce projet a été réalisé dans le cadre du **Challenge 3**, avec pour objectif de combiner :
+- logique Python,
+- développement web backend,
+- interface utilisateur moderne,
+- visualisation des données.
 
-- une logique Python robuste,
-- une interface utilisateur moderne,
-- la gestion des données,
-- et une expérience utilisateur fluide.
-
-Ce projet met en avant des compétences en développement backend, UI/UX et structuration d’un projet Python, tout en visant à consolider les bases de Flask, de la logique applicative et de la conception d’interfaces web modernes.
 
 ## 🎯 Objectifs du challenge
 
-- Créer un moteur de quiz fonctionnel et extensible
-- Proposer une interface claire, moderne et responsive
-- Gérer la navigation question par question
-- Calculer automatiquement les scores et les résultats
-- Sauvegarder l’historique des tentatives
-- Fournir un feedback détaillé à l’utilisateur
+- Créer une application web complète avec Flask
+- Implémenter une gestion persistante des données
+- Offrir une interface moderne et responsive
+- Analyser les dépenses par catégorie
+- Améliorer l’expérience utilisateur avec des fonctionnalités avancées
+
 
 ## ⚙️ Fonctionnalités principales
 
-- Sélection du nombre de questions
-- Option de mélange aléatoire des questions
-- Navigation Previous / Next entre les questions
-- Barre de progression dynamique
-- Questions à choix multiples et questions ouvertes
-- Calcul automatique du score et de la note finale
-- Page de résultats avec feedback détaillé
-- Historique des tentatives sauvegardé localement
-- Téléchargement des résultats en fichier JSON
-- Interface moderne avec thème clair et design professionnel
+- Ajout de dépenses (catégorie, montant, date, note)
+- Affichage de la liste des dépenses
+- Filtres par catégorie et par date
+- Calcul automatique :
+  - total des dépenses
+  - moyenne
+  - plus grosse dépense
+- Totaux par catégorie
+- **Graphique Donut (Chart.js)** pour visualiser la répartition des dépenses
+- **Mode clair / sombre automatique**
+- Sauvegarde des données dans un fichier local (`expenses.txt`)
+- Interface moderne avec **Tailwind CSS**
+
 
 ## 🛠️ Technologies utilisées
 
 - Python 3
-- Flask (framework web)
-- HTML / CSS
-- JavaScript (vanilla)
-- Jinja2 (templating)
-- Stockage local des résultats (results.txt)
+- Flask
+- HTML / Jinja2
+- Tailwind CSS
+- JavaScript
+- Chart.js
+- Stockage local (fichier texte)
 
 
 ## ▶️ Lancer l’application
-**Prérequis**
 
+### Prérequis
 - Python 3 installé
 - Flask installé
-``` bash
+
+```bash
 pip install flask
 ```
-
 **Exécution**
 ``` bash
-python quiz_flask_app.py
+python expense_tracker.py
 ```
 
 Puis ouvrir dans le navigateur :
 ``` bash
-http://127.0.0.1:9000
+http://127.0.0.1:8000
 ```
-
-## 🧪 Exemple de parcours utilisateur
-
-1. Accéder à la page d’accueil
-2. Choisir le nombre de questions
-3. Lancer le quiz
-4. Répondre aux questions une par une
-5. Visualiser le score final et le détail des réponses
-6. Consulter l’historique des tentatives précédentes
 
 ## 📈 Compétences mises en avant
 
-- Programmation Python
-- Développement d’API avec Flask
-- Logique applicative et gestion d’état
-- Design UI/UX moderne
-- Manipulation de formulaires web
-- Gestion de fichiers et persistance des données
-- Structuration et lisibilité du code
+-Programmation Python
+- Développement web avec Flask
+- Structuration d’un projet backend
+- Manipulation de données
+- UI/UX moderne avec Tailwind CSS
+- Visualisation de données (Chart.js)
+- Gestion du thème clair / sombre
+- Bonnes pratiques de code
