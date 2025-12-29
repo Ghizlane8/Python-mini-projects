@@ -1,4 +1,4 @@
-# ✅ Challenge 4 — To-Do & Habit Tracker (Flask Web App)
+# ✅ To-Do & Habit Tracker
 ## 📌 Présentation du projet
 
 Ce projet est une application web de gestion de tâches et d’habitudes développée en Python avec le framework Flask, dans le but de mettre en pratique des concepts clés du développement web backend et frontend.
@@ -89,5 +89,6 @@ http://127.0.0.1:8000
 
 ## 📸 Aperçu
 <img width="1916" height="923" alt="image" src="https://github.com/user-attachments/assets/c9e09d46-da00-4b97-b97e-3c2a8dec9a08" />
+
 
 
