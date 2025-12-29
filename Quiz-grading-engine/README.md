@@ -49,12 +49,11 @@ pip install flask
 
 **Exécution**
 
-`` bash
+``` bash
 python quiz_flask_app.py
 ```
 
 Puis ouvrir dans le navigateur :
-
 ``` bash
 http://127.0.0.1:9000
 ```
