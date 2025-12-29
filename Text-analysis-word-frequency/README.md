@@ -1,4 +1,4 @@
-# 🧠 Challenge 2 — Text Analyzer (Flask App)
+# 🧠 Text Analyzer
 ## 📌 Présentation
 
 Ce projet correspond au Challenge 2 et consiste à développer une application web de traitement et d’analyse de texte avec Python et Flask.
@@ -69,6 +69,7 @@ Challenge-2/
 ```
 ## 📸 Aperçu
  <img width="1911" height="921" alt="image" src="https://github.com/user-attachments/assets/92629d2b-7a28-441b-be1e-cd63f655449f" />
+
 
 
 
