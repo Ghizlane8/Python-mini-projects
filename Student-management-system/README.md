@@ -1,4 +1,4 @@
-# 🎓 Student Management — Challenge 1 (Python & Flask)
+# 🎓 Student Management
 
 ## 📌 Présentation du projet
 **Student Management** est une application web moderne développée avec **Python et Flask**, conçue dans le cadre du **Challenge 1**.  
@@ -44,3 +44,38 @@ Ce projet met l’accent sur :
 - **Tailwind CSS (CDN)**
 - **JavaScript**
 - **CSV (persistance locale)**
+
+
+## ▶️ Lancer le projet en local
+
+### 1️⃣ Prérequis
+- Python 3.x installé
+- Flask installé
+
+```bash
+pip install flask
+```
+
+### 2️⃣ Exécution
+``` bash
+python student_portfolio_modern.py
+```
+
+### 3️⃣ Accès à l’application
+
+Ouvre ton navigateur à l’adresse :
+``` bash
+http://127.0.0.1:5000
+```
+
+## 📸 Aperçu
+
+<img width="1912" height="918" alt="image" src="https://github.com/user-attachments/assets/2cd74ce2-bcf3-4359-b2b5-bade15cbb456" />
+
+
+## 🧠 Ce que ce projet démontre
+- Capacité à transformer un exercice simple en application professionnelle
+- Compréhension du backend Flask
+- Gestion d’état et de données
+- Sens du design et de l’expérience utilisateur
+- Projet structuré et prêt à être présenté à un recruteur
