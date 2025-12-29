@@ -42,7 +42,7 @@ Python-Challenge-Pack/
 ## 🏆 Projects Overview
 ### 🎓 Student Management System
 
-Folder: ```text Student-management-system```
+Folder: ```Student-management-system```
 
 A web-based application to manage students and analyze academic performance.
 
@@ -62,7 +62,7 @@ Tech stack: Python · Flask · HTML · Tailwind CSS · JavaScript · CSV
 
 ### 🧠 Text Analysis & Word Frequency
 
-Folder: ```text Text-analysis-word-frequency```
+Folder: ```Text-analysis-word-frequency```
 
 A text analysis tool that extracts meaningful statistics from text input or files.
 
@@ -82,7 +82,7 @@ Tech stack: Python · Flask · HTML · CSS · JavaScript
 
 ### 💰 Expense Tracker
 
-Folder: ```text Expense-tracker```
+Folder: ```Expense-tracker```
 
 A web application for tracking and analyzing daily expenses.
 
@@ -102,7 +102,7 @@ Tech stack: Python · Flask · Tailwind CSS · JavaScript · Chart.js
 
 ### ✅ To-Do & Habit Tracker
 
-Folder: ```text Todo-habit-tracker```
+Folder: ```Todo-habit-tracker```
 
 A productivity-focused task and habit tracking application.
 
@@ -120,7 +120,7 @@ Tech stack: Python · Flask · HTML · CSS · JavaScript · JSON
 
 ### 🧪 Quiz Grading Engine
 
-Folder: ```text Quiz-grading-engine```
+Folder: ```Quiz-grading-engine```
 
 An interactive Python quiz application with scoring and feedback.
 
