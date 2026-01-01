@@ -161,12 +161,14 @@ http://127.0.0.1:PORT
 
 ## 📈 Portfolio Value
 
--This repository demonstrates:
+- This repository demonstrates:
 - Progressive skill development
 - Ability to design complete Python applications
 - Strong backend fundamentals
 - Clean UI/UX awareness
 - Real, deployable, and maintainable projects
+
+---
 
 ## 👤 Author
 **Baali Ghizlane**
